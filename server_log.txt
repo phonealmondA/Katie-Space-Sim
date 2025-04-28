@@ -190,3 +190,50 @@
 2025-04-26 20:25:46 [INFO] Connected clients: 0
 2025-04-26 20:25:54 [INFO] Client 1 connected from 127.0.0.1:5000
 2025-04-26 20:25:54 [INFO] New client connected with ID: 1
+2025-04-27 19:14:16 [INFO] KatieServer starting up...
+2025-04-27 19:14:16 [INFO] Game server initialized with 10 planets
+2025-04-27 19:14:16 [INFO] Server started on port 5000
+2025-04-27 19:14:16 [INFO] Local IP address: 172.20.10.6
+2025-04-27 19:14:17 [INFO] Public IP address: 174.90.223.29
+2025-04-27 19:14:17 [INFO] Server started successfully!
+2025-04-27 19:14:27 [INFO] Connected clients: 0
+2025-04-27 19:14:37 [INFO] Connected clients: 0
+2025-04-27 19:14:47 [INFO] Connected clients: 0
+2025-04-27 19:14:57 [INFO] Connected clients: 0
+2025-04-27 19:15:07 [INFO] Client 1 connected from 127.0.0.1:5000
+2025-04-27 19:15:07 [INFO] New client connected with ID: 1
+2025-04-27 19:39:52 [INFO] KatieServer starting up...
+2025-04-27 19:39:52 [INFO] Game server initialized with 10 planets
+2025-04-27 19:39:52 [INFO] Server started on port 5000
+2025-04-27 19:39:52 [INFO] Local IP address: 172.20.10.6
+2025-04-27 19:39:53 [INFO] Public IP address: 174.90.223.29
+2025-04-27 19:39:53 [INFO] Server started successfully!
+2025-04-27 19:40:03 [INFO] Connected clients: 0
+2025-04-27 19:40:08 [INFO] Client 1 connected from 127.0.0.1:5000
+2025-04-27 19:40:08 [INFO] New client connected with ID: 1
+2025-04-27 19:42:10 [INFO] KatieServer starting up...
+2025-04-27 19:42:10 [INFO] Game server initialized with 10 planets
+2025-04-27 19:42:10 [INFO] Server started on port 5000
+2025-04-27 19:42:10 [INFO] Local IP address: 172.20.10.6
+2025-04-27 19:42:10 [INFO] Public IP address: 174.90.223.29
+2025-04-27 19:42:10 [INFO] Server started successfully!
+2025-04-27 19:42:20 [INFO] Connected clients: 0
+2025-04-27 19:42:31 [INFO] Connected clients: 0
+2025-04-27 19:42:33 [INFO] Client 1 connected from 127.0.0.1:5000
+2025-04-27 19:42:33 [INFO] New client connected with ID: 1
+2025-04-27 19:44:30 [INFO] KatieServer starting up...
+2025-04-27 19:44:30 [INFO] Game server initialized with 10 planets
+2025-04-27 19:44:30 [INFO] Server started on port 5000
+2025-04-27 19:44:30 [INFO] Local IP address: 172.20.10.6
+2025-04-27 19:44:31 [INFO] Public IP address: 174.90.223.29
+2025-04-27 19:44:31 [INFO] Server started successfully!
+2025-04-27 19:44:37 [INFO] Client 1 connected from 127.0.0.1:5000
+2025-04-27 19:44:37 [INFO] New client connected with ID: 1
+2025-04-28 12:14:57 [INFO] KatieServer starting up...
+2025-04-28 12:14:57 [INFO] Game server initialized with 10 planets
+2025-04-28 12:14:57 [INFO] Server started on port 5000
+2025-04-28 12:14:57 [INFO] Local IP address: 172.20.10.6
+2025-04-28 12:14:57 [INFO] Public IP address: 174.90.223.9
+2025-04-28 12:14:57 [INFO] Server started successfully!
+2025-04-28 12:15:06 [INFO] Client 1 connected from 127.0.0.1:5000
+2025-04-28 12:15:06 [INFO] New client connected with ID: 1
